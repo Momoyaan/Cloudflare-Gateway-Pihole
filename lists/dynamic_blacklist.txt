@@ -157,3 +157,6 @@ cloud2.gsdk.proximabeta.com
 ff.imacdn.com
 sponsor.imacdn.com
 qcc.qualcomm.com
+pc.crashsight.wetest.net
+sg-public-data-api.hoyoverse.com
+log-upload-os.hoyoverse.com
