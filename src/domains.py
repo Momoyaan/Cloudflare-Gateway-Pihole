@@ -124,5 +124,5 @@ class DomainConverter:
                 white_content += white_file.read()
         
         # Convert the collected content into a domain list
-        domains = convert.convert_to_domain_list(block_content)
+        domains = convert.convert_to_domain_list(block_content, white_content)
         return domains
