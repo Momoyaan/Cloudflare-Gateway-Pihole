@@ -1,2 +1,4 @@
 # connect.facebook.net
 api-js.datadome.co
+conn-service-us-04.allawnos.com
+conn-service-us-04.allawnos.com
